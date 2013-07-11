@@ -1,0 +1,1 @@
+ALTER TABLE tblProduct ADD flgIsFav INTEGER;
